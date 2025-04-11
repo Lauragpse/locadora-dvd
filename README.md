@@ -1,7 +1,7 @@
 # locadora-dvd
 
 ## Estrutura de pastas
-
+```
 dvd-emprestimos/
 │
 ├── src/
@@ -31,3 +31,4 @@ dvd-emprestimos/
 ├── index.js                 # Ponto de entrada
 ├── package.json
 └── README.md
+```
